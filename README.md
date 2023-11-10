@@ -45,7 +45,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ## Autor
 
-Este projeto foi desenvolvido por [Clairton Lima] e está disponível sob a licença [MIT]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto foi desenvolvido por Clairton Lima sob orientação do Prof. Luiz Otavio e está disponível sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
