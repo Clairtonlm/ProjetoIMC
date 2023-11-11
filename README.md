@@ -41,7 +41,7 @@ O projeto apresenta um design simples e responsivo, utilizando a fonte "Open San
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias para o projeto.
 
 ## Autor
 
