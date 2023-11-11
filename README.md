@@ -6,7 +6,7 @@ Este é um projeto simples de calculadora de Índice de Massa Corporal (IMC) des
 
 O projeto inclui uma tabela com as faixas de IMC e suas respectivas classificações. Aqui estão as categorias:
 
-### Tabela IMC
+### Tabela IMC de Referência 
 1. Menos do que 18,5
 2. Entre 18,5 e 24,9
 3. Entre 25 e 29,9
